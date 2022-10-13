@@ -1,0 +1,172 @@
+SECONDS=0
+echo "started!"
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:00:03-GraphSAGE_32_1' --mol_len 4 --num_layers 1 --num_nodes 32 --best_known_val 2.4972847870149346
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:07:36-GraphSAGE_16_2' --mol_len 4 --num_layers 2 --num_nodes 16 --best_known_val 3.09585937347554
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:12:46-GraphSAGE_32_2' --mol_len 4 --num_layers 2 --num_nodes 32 --best_known_val 4.0195712724865365
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:16:25-GraphSAGE_64_2' --mol_len 4 --num_layers 2 --num_nodes 64 --best_known_val 2.3243891783602324
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:18:55-GraphSAGE_16_3' --mol_len 4 --num_layers 3 --num_nodes 16 --best_known_val 2.142014602232422
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:25:40-GraphSAGE_32_3' --mol_len 4 --num_layers 3 --num_nodes 32 --best_known_val 3.4762376216241933
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:28:10-GraphSAGE_64_3' --mol_len 4 --num_layers 3 --num_nodes 64 --best_known_val 2.691109217725964
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:00:03-GraphSAGE_32_1' --mol_len 6 --num_layers 1 --num_nodes 32 --best_known_val 4.3777391337953215
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:07:36-GraphSAGE_16_2' --mol_len 6 --num_layers 2 --num_nodes 16 --best_known_val 4.90209401821312
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:12:46-GraphSAGE_32_2' --mol_len 6 --num_layers 2 --num_nodes 32 --best_known_val 6.1707001775811525
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:16:25-GraphSAGE_64_2' --mol_len 6 --num_layers 2 --num_nodes 64 --best_known_val 3.518453122325809
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:18:55-GraphSAGE_16_3' --mol_len 6 --num_layers 3 --num_nodes 16 --best_known_val 7.026660472690722
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:25:40-GraphSAGE_32_3' --mol_len 6 --num_layers 3 --num_nodes 32 --best_known_val 7.184512723555628
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:28:10-GraphSAGE_64_3' --mol_len 6 --num_layers 3 --num_nodes 64 --best_known_val 4.369279291615271
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:00:03-GraphSAGE_32_1' --mol_len 8 --num_layers 1 --num_nodes 32 --best_known_val 6.204700669699621
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:07:36-GraphSAGE_16_2' --mol_len 8 --num_layers 2 --num_nodes 16 --best_known_val 6.708305944487596
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:12:46-GraphSAGE_32_2' --mol_len 8 --num_layers 2 --num_nodes 32 --best_known_val 8.321827364082916
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:16:25-GraphSAGE_64_2' --mol_len 8 --num_layers 2 --num_nodes 64 --best_known_val 4.7125171641546055
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:18:55-GraphSAGE_16_3' --mol_len 8 --num_layers 3 --num_nodes 16 --best_known_val 9.502920271213313
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:25:40-GraphSAGE_32_3' --mol_len 8 --num_layers 3 --num_nodes 32 --best_known_val 9.892912225105462
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GraphSAGE' --location '2022-09-16_21:28:10-GraphSAGE_64_3' --mol_len 8 --num_layers 3 --num_nodes 64 --best_known_val 5.773825273880675
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:33:27-GCN_32_1' --mol_len 4 --num_layers 1 --num_nodes 32 --best_known_val 3.0730981546883958
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:03:07-GCN_16_2' --mol_len 4 --num_layers 2 --num_nodes 16 --best_known_val 2.427439176166958
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:04:42-GCN_32_2' --mol_len 4 --num_layers 2 --num_nodes 32 --best_known_val 1.6865989115383462
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:45:57-GCN_64_2' --mol_len 4 --num_layers 2 --num_nodes 64 --best_known_val 2.278572840260256
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:53:27-GCN_16_3' --mol_len 4 --num_layers 3 --num_nodes 16 --best_known_val 1.7257665826092392
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:57:55-GCN_32_3' --mol_len 4 --num_layers 3 --num_nodes 32 --best_known_val 2.7870646864099404
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_13:01:54-GCN_64_3' --mol_len 4 --num_layers 3 --num_nodes 64 --best_known_val 1.484383164857799
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:33:27-GCN_32_1' --mol_len 6 --num_layers 1 --num_nodes 32 --best_known_val 4.913657166215926
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:03:07-GCN_16_2' --mol_len 6 --num_layers 2 --num_nodes 16 --best_known_val 3.5989393704535684
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:04:42-GCN_32_2' --mol_len 6 --num_layers 2 --num_nodes 32 --best_known_val 2.903831946484644
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:45:57-GCN_64_2' --mol_len 6 --num_layers 2 --num_nodes 64 --best_known_val 3.644618799236105
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:53:27-GCN_16_3' --mol_len 6 --num_layers 3 --num_nodes 16 --best_known_val 3.0188674826034814
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:57:55-GCN_32_3' --mol_len 6 --num_layers 3 --num_nodes 32 --best_known_val 3.5679132414952983
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_13:01:54-GCN_64_3' --mol_len 6 --num_layers 3 --num_nodes 64 --best_known_val 2.2920494684786616
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:33:27-GCN_32_1' --mol_len 8 --num_layers 1 --num_nodes 32 --best_known_val 6.710050869958868
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:03:07-GCN_16_2' --mol_len 8 --num_layers 2 --num_nodes 16 --best_known_val 4.500289546586951
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:04:42-GCN_32_2' --mol_len 8 --num_layers 2 --num_nodes 32 --best_known_val 4.109009589730086
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:45:57-GCN_64_2' --mol_len 8 --num_layers 2 --num_nodes 64 --best_known_val 4.77580500839542
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:53:27-GCN_16_3' --mol_len 8 --num_layers 3 --num_nodes 16 --best_known_val 4.17214371183184
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_12:57:55-GCN_32_3' --mol_len 8 --num_layers 3 --num_nodes 32 --best_known_val 4.830880355532279
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
+python final_GAv4CleanLogged.py --gnn 'GCN' --location '2022-08-31_13:01:54-GCN_64_3' --mol_len 8 --num_layers 3 --num_nodes 64 --best_known_val 3.099702483775212
+SECONDS=0
+now=$(date +"%T")
+echo "Started at : $now"
